@@ -1,1 +1,3 @@
-# advent_of_code_2023
+# Advent of Code
+
+My solutions for [https://adventofcode.com/](Advent of Code)
